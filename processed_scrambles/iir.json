@@ -1,0 +1,14 @@
+{
+    "iirs": [
+        "iris"
+    ], 
+    "iirssu": [
+        "sirius"
+    ], 
+    "iirsvz": [
+        "vizirs"
+    ], 
+    "iirvz": [
+        "vizir"
+    ]
+}

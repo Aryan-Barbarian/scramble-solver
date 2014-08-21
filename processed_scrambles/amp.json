@@ -1,0 +1,70 @@
+{
+    "amp": [
+        "amp", 
+        "map"
+    ], 
+    "ampr": [
+        "ramp", 
+        "pram"
+    ], 
+    "amprs": [
+        "ramps", 
+        "prams"
+    ], 
+    "amprst": [
+        "tramps"
+    ], 
+    "amprsuw": [
+        "warmups"
+    ], 
+    "amprsuy": [
+        "pyramus"
+    ], 
+    "amprt": [
+        "tramp"
+    ], 
+    "ampruw": [
+        "warmup"
+    ], 
+    "amps": [
+        "amps", 
+        "maps"
+    ], 
+    "ampss": [
+        "spasm"
+    ], 
+    "ampsss": [
+        "spasms"
+    ], 
+    "ampsst": [
+        "stamps"
+    ], 
+    "ampssw": [
+        "swamps"
+    ], 
+    "ampst": [
+        "stamp", 
+        "tamps"
+    ], 
+    "ampsu": [
+        "pumas"
+    ], 
+    "ampsv": [
+        "vamps"
+    ], 
+    "ampsw": [
+        "swamp"
+    ], 
+    "ampswy": [
+        "swampy"
+    ], 
+    "ampt": [
+        "tamp"
+    ], 
+    "ampu": [
+        "puma"
+    ], 
+    "ampv": [
+        "vamp"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "jmpsu": [
+        "jumps"
+    ], 
+    "jmpu": [
+        "jump"
+    ], 
+    "jmpuy": [
+        "jumpy"
+    ]
+}

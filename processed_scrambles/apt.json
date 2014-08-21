@@ -1,0 +1,10 @@
+{
+    "apt": [
+        "tap", 
+        "pat", 
+        "apt"
+    ], 
+    "aptty": [
+        "patty"
+    ]
+}

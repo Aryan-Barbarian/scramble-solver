@@ -1,0 +1,28 @@
+{
+    "not": [
+        "not", 
+        "ton", 
+        "ont"
+    ], 
+    "nottw": [
+        "twont"
+    ], 
+    "notu": [
+        "outn", 
+        "unto"
+    ], 
+    "notv": [
+        "vont"
+    ], 
+    "notw": [
+        "town", 
+        "wont", 
+        "nowt"
+    ], 
+    "notwy": [
+        "towny"
+    ], 
+    "noty": [
+        "tony"
+    ]
+}

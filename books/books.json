@@ -1,0 +1,86 @@
+{
+	"Alice in Wonderland": {
+		"title": "Alice's Adventures in Wonderland",
+		"author": "Lewis Carroll",
+		"publish-date": [
+			1865,
+			11,
+			26
+		],
+		"filename": "AlicesAdventuresInWonderland.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"Pride and Prejudice": {
+		"title": "Pride and Prejudice",
+		"author": "Jane Austen",
+		"publish-date": [
+			1813,
+			1,
+			28
+		],
+		"filename": "JaneAusten-PrideAndPrejudice.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"Huckleberry Finn": {
+		"title": "The Adventures of Huckleberry Finn",
+		"author": "Mark Twain",
+		"publish-date": [
+			1884,
+			12,
+			10
+		],
+		"filename": "AdventuresOfHuckleberryFinn.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"Les Miserables": {
+		"title": "Les Miserables",
+		"author": "Victor Hugo",
+		"publish-date": [
+			1862,
+			0,
+			0
+		],
+		"filename": "lesMiserables.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"The Prince": {
+		"title": "The Prince",
+		"author": "Niccolo Machiavelli",
+		"publish-date": [
+			1532,
+			0,
+			0
+		],
+		"filename": "ThePrince.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"Tom Sawyer": {
+		"title": "Adventures of Tom Sawyer",
+		"author": "Mark Twain",
+		"publish-date": [
+			1876,
+			0,
+			0
+		],
+		"filename": "Tom Sawyer.txt",
+		"uploaded": true,
+		"_rev": 2
+	},
+	"Dictionary": {
+		"title": "Dictionary",
+		"author": "N/A",
+		"publish-date": [
+			0,
+			0,
+			0
+		],
+		"filename": "wordsEn.txt",
+		"uploaded": true,
+		"_rev": 2
+	}
+}
